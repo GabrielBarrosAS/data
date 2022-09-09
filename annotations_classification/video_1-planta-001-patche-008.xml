@@ -1,0 +1,38 @@
+<annotation>
+	<folder>video_1</folder>
+	<filename>video_1-planta-001-patche-008.jpg</filename>
+	<path>C:\Users\gabri\OneDrive\Área de Trabalho\tcc_data\1_imagens\video_1\video_1-planta-001-patche-008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>acerola_verde</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>185</ymin>
+			<xmax>249</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>acerola_verde</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>323</ymin>
+			<xmax>344</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>
