@@ -1,0 +1,26 @@
+<annotation>
+	<folder>video_3</folder>
+	<filename>video_3-planta-061-patche-022.jpg</filename>
+	<path>C:\Users\gabri\OneDrive\Área de Trabalho\tcc_1\1_imagens\video_3\video_3-planta-061-patche-022.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>acerola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>39</ymin>
+			<xmax>299</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+</annotation>
